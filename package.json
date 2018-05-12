@@ -1,0 +1,26 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "BaMaZoN",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bigg-Iron/BaMaZoN.git"
+  },
+  "author": "LB.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bigg-Iron/BaMaZoN/issues"
+  },
+  "homepage": "https://github.com/Bigg-Iron/BaMaZoN#readme",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "console.table": "^0.9.1",
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0",
+    "table": "^4.0.2"
+  }
+}
